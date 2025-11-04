@@ -10,6 +10,12 @@
    - Mauricio Narváez  
    - Anita Morales  
 
+ </div>
+ <div>
+   <img src="./images/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="100">
+ </div>
+</div>
+
 ## 🚀 Descripción general
 
 El objetivo del proyecto fue **organizar el desarrollo en equipo** usando buenas prácticas de trabajo ágil, el **tablero SCRUM** fue la herramienta central del equipo para gestionar el progreso de las tareas, desde la planificación hasta la entrega final, esto permitió mantener un flujo ordenado, una comunicación continua.
