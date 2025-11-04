@@ -1,9 +1,14 @@
 <h1 align="center">🧩 Tablero SCRUM y Flujo de Trabajo con Git 🧩</h1>
 
-## 👥 Equipo **Q-ERO v3 Protocol** (roles)
-1. 🧭 **Product Owner:** Karim Valenzuela  
-2. 🧑‍🏫 **Scrum Master:** Nicolás Peña  
-3. 👨‍💻 **Equipo de Desarrollo:**  
+<table>
+<tr>
+<td>
+
+## 👥 Equipo <b>Q-ERO v3 Protocol</b> (roles)
+
+1. 🧭 <b>Product Owner:</b> Karim Valenzuela  
+2. 🧑‍🏫 <b>Scrum Master:</b> Nicolás Peña  
+3. 👨‍💻 <b>Equipo de Desarrollo:</b>  
    - Agustín Valenzuela  
    - Washington Mardones  
    - Javier Valenzuela  
@@ -11,7 +16,7 @@
    - Anita Morales  
 
 </td>
-<td align="right">
+<td align="right" valign="middle" width="170">
   <img src="./images/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="150">
 </td>
 </tr>
