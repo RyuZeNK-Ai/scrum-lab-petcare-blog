@@ -10,11 +10,12 @@
    - Mauricio Narváez  
    - Anita Morales  
 
- </div>
- <div>
-   <img src="./images/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="100">
- </div>
-</div>
+</td>
+<td align="right">
+  <img src="./images/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="150">
+</td>
+</tr>
+</table>
 
 ## 🚀 Descripción general
 
