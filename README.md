@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="6">
+<table>
 <tr>
 <td>
 
