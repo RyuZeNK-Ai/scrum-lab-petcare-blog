@@ -1,4 +1,4 @@
-# 🧩 Tablero SCRUM y Flujo de Trabajo con Git 🧩
+<h1 align="center">🧩 Tablero SCRUM y Flujo de Trabajo con Git 🧩</h1>
 
 ## 👥 Equipo **Q-ERO v3 Protocol** (roles)
 1. 🧭 **Product Owner:** Karim Valenzuela  
