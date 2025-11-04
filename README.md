@@ -1,4 +1,4 @@
-<h1 align="center">🧩 Tablero SCRUM y Flujo de Trabajo con Git 🧩</h1>
+<h1 align="center">🧩 Tablero SCRUM y Flujo de Trabajo con GitHub 🧩</h1>
 
 <div align="center">
 
