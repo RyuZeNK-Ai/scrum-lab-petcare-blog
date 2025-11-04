@@ -16,8 +16,8 @@
    - Anita Morales  
 
 </td>
-<td align="right" valign="middle" width="170">
-  <img src="./images/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="150">
+<td align="right" valign="middle" width="320">
+  <img src="./images/logo_Q-ERO.png" alt="Logo Q-ERO v3 Protocol" width="270">
 </td>
 </tr>
 </table>
