@@ -13,8 +13,7 @@
 3. 👨‍💻 <b>Equipo de Desarrollo:</b>  
    - Agustín Valenzuela  
    - Washington Mardones  
-   - Javier Valenzuela  
-   - Mauricio Narváez  
+   - Javier Valenzuela    
    - Anita Morales  
 
 </td>
