@@ -96,6 +96,10 @@ El objetivo del proyecto fue **organizar el desarrollo en equipo** usando buenas
   El trabajo en equipo nos permitió cumplir con las metas de forma más eficiente.  
   La comunicación constante ayudó a corregir errores a tiempo y a mantener una dinámica de apoyo mutuo.  
 
+  
+
 - **¿Qué cambiarían para su siguiente Sprint?**  
   Fijar un objetivo más claro y definir pautas desde el inicio para optimizar tiempos y mantener la coherencia del flujo de trabajo.  
+
+  ## 🧑‍💻 Autor: **RyuZeNK.Ai**
 
